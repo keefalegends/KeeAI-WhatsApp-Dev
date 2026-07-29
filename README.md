@@ -1,6 +1,6 @@
 # KeeAI - 9router based
 
-KeeAI adalah chatbot WhatsApp pribadi berbasis Node.js. KeeAI dapat menjalankan perintah sederhana dan meneruskan pertanyaan ke model AI melalui **9router**, yaitu API yang kompatibel dengan format OpenAI.
+KeeAI adalah chatbot WhatsApp pribadi berbasis Node.js. KeeAI dapat menjalankan perintah sederhana dan meneruskan pertanyaan ke model AI melalui **9router**, yaitu API yang kompatibel dengan semua model yang tersedia.
 
 ## Fitur Utama
 
